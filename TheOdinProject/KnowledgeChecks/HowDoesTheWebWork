@@ -1,0 +1,44 @@
+* What is a network?
+ - A network is a group of nodes that communicate with each other - e.g., a collection of computers, servers, mainframes, network devices, peripherals, or other devices connection to allow data sharing.
+
+* What is a node? 
+ - A node is any active, physical, electornic device attached to a network. These devices are capable of either sending, receiving, or forwarding information. 
+
+* What is the internet?
+ - The internet is a large network of computers which communicate all together. The iternet is an example of a whole infrastructure of NETWORKS.
+ - Network(group of nodes) -> internet(large network of computers) -> Web
+
+* What is an IP(Internet Protocol) address?
+ - A unique address that identifies a computer linked to a network. It's an address made of a series of 4 numbers seperated by notes, e.g., 192.168.2.10
+ - How to display your private IP address: CMD -> ipconfig -> enter
+ - Public IP is typically dynamic and changes often
+
+* What is a router?
+ - A router makes sure the message sent from computer(A) arrives at the correct designated computer(B) and no where else, much like a signaler at a railway station.
+
+* What is a modem?
+ - A modem is a network device that connects your local area network(LAN) to the wide area network(WAN), aka the internet. This is done usually over a phone line, coax cable, or optical fiber.
+
+* What is an ISP(Internet Service Provider)?
+ - An ISP is a company that manages some special routers that are all linked together and can also access other ISPs' routers. The message from out network is carried through the network of ISP networks to the destination network.
+
+* What are packets and how are they used to transfer data?
+ - test
+
+* What is a client?
+
+* What is a server?
+
+* What is a web page?
+
+* What is a web server?
+
+* What is a web browser?
+
+* What is a search engine?
+
+* What is a DNS request?
+
+* Which browser are you currently using?
+
+* In your own words, explain what happens when you run a search on google.com.
